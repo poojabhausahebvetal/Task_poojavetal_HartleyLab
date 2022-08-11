@@ -1,0 +1,122 @@
+
+     .div1{
+     	width:1490px;
+     	height:700px;
+     	background-color: black;
+     	top:20px;
+     	margin:20px;
+     }
+     .box1{
+     	color:white;
+     	margin-left: 400px;
+     	padding-bottom:10px;}
+           .div2{
+           	margin-left: 1000px;
+           	font-size: 40px;
+           }
+       .para{
+            margin-left: 1000px;
+       }
+       .hr1{
+       	position:relative;
+       	border:none;
+       	border-bottom: 1px solid #aaa;
+       	overflow:visible;
+       }
+       .hr1:before{
+       	position: absolute;
+       	left:0;
+       	width:20%;
+       	content:'';
+       	height: 3px;
+       	background:red;
+       	top:-1px;
+       }
+       .div3{
+       	margin-left: 300px;
+       	padding-top: 80px;
+       }
+        .div4{
+        margin-left: 300px;
+        padding-top: 80px;
+       }
+       img{
+       	margin-left:60px;
+       	margin-top:70px;
+       }
+  .content{
+    float:left;
+    margin:10px;
+    width:240px;
+    height: 350px;
+    background-color:lightgray;
+    border-radius: 15px;
+  }
+  .img1{
+    float:right;
+    margin-bottom:1000px;
+  }
+   .container2{
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+    margin-left:100px;
+    top:800px;
+   }
+   .image{
+    border-radius: 50%;
+   }
+   .buiseness{
+    width:600px;
+    height:500px;
+    background-color: lightgray;
+    border-radius: 20px;
+   }
+   .bigimage{
+    width:1500px;
+    height:600px;
+    margin-top:550px;
+    background-image: url("work-bg.png");
+    
+    }
+    .bigimage1{
+    width:400px;
+    height:400px;
+    position: relative;
+    background-image: url("news-img.png");
+    background-size:cover;
+    border-radius: 20px;
+    }
+   .overlay{
+    width:100%;
+    height:100%;
+    color:white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   }
+      .overlay2{
+    color:white;
+   margin-left: 50px;
+    
+   }
+   .insights{
+    float: left;
+    margin:10px;
+   }
+   .div5{
+      float:left;
+      margin-left:150px;
+   }
+    button{
+             float: right;
+             color:white;
+             top:30px;
+             background-color: red;
+             border:none;
+             height:40px;width:100px;
+             margin-left: 1410px;
+             position:absolute;
+           }
